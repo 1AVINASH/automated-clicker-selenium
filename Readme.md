@@ -1,2 +1,3 @@
-This repository logs in to https://pokeheroes.com and then makes repeated automatic clicks to get coins
+This repository logs in to https://pokeheroes.com and then makes repeated automatic clicks to get coins.
+When starting this game, I realised the only way to make money (atleast in the initial stages of the game) was to keep warming up the eggs of other pokemons. All it required was clicking repeatedly on the same button. To make this process easier, I decided to automate it
 To use this, run the main.py from production folder. Add your credentials in the .env file.
